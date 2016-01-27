@@ -1,5 +1,9 @@
 test
 
 ajay changing
+<<<<<<< Updated upstream
 
 njanjajnajanja
+=======
+Line 2
+>>>>>>> Stashed changes
